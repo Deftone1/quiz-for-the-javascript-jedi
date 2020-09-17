@@ -1,0 +1,22 @@
+body {
+  
+}
+
+.buttons {
+    margin-top: 30px;
+}
+ 
+#buttons {
+    background-color: #a8cad6;
+    font-size: 20px;
+    color: #fff;
+    border: 1px solid #1D3C6A;
+    
+}
+ 
+#buttons:hover {
+    cursor: pointer;
+    background-color: #01BBFF;
+}
+
+ 
